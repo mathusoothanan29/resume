@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <style>
+    table,th,td
+    {
+     border: 1px solid black;
+    }
+  </style>
+  <div style="background-color: aqua;"
+  <body style="color: black">
+    <center><h1>mathu soothanan <i class="fa-solid fa-user"></i></h1></center>
+    <center><h2>632378337 <i class="fa-solid fa-phone"></i></h2></center>
+    <center><p>mathusundar129@gmail.com <i class="fa-solid fa-envelope"></i></p></center>
+    <center><p>dindigul <i class="fa-solid fa-plane"></i></p></center>
+  </div>
+    <h1>EDUCATION QUALIFICATION <i class="fa-solid fa-pen-nib"></i></h1>
+    <table style="width: 100%;">
+   <tr>
+    <th>QUALIFICATION</th>
+    <th>institution</th>
+    <th>percentage</th>
+   </tr>
+   <tr>
+    <td>sslc</td>
+    <td>ssm matriculation hr.sec school</td>
+    <td>60%</td>
+   </tr>
+   <tr>
+    <td>hsc</td>
+    <td>ssm matriculation hr.sec school</td>
+    <td>58%</td>
+   </tr>
+   <tr>
+    <td>bca(ug)</td>
+    <td>gtn college</td>
+    <td>70%</td>
+   </tr>
+   <tr>
+    <td>mca(pg)</td>
+    <td>madurai kamaraja unversity madurai</td>
+    <td>parsing</td>
+    </table>
+<h1>ADDITIONAL QUALIFICATION <i class="fa-solid fa-pen-nib"></i></h1>
+<ul>
+    <li>certification for basic ui/ux <i class="fa-solid fa-book"></i></li>
+    <li>certification for tally <i class="fa-solid fa-book"></i></li>
+</ul>
+<h1>personal details <i class="fa-solid fa-pen-nib"></i></h1>
+<ol>
+    <li>name:mathusoothanan s <i class="fa-solid fa-book"></i></li>
+    <li>dob:29/03/2003 <i class="fa-solid fa-book"></i></li>
+    <li>age:21 <i class="fa-solid fa-book"></i></li>
+    <li>gender:male <i class="fa-solid fa-book"></i></li>
+    <li>language:tamil,english,french <i class="fa-solid fa-book"></i></li>
+</ol>
+<h1>DECLARATION <i class="fa-solid fa-pen-nib"></i></h1>
+<P>i assure that,if i get this job.i would do it sincierly<i class="fa-solid fa-hand"></i></P>
+<h1>your sincierly <i class="fa-solid fa-pen"></i></h1>
+<p>mathu soothanan s</p>
+  </body>
+
